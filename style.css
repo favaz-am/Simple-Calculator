@@ -1,0 +1,49 @@
+.calc{
+    width: 400px;
+    height: 530px;
+    background: linear-gradient(90deg, #10214a 0%, #182848 100%);
+    margin: 0;
+    padding-top: 10px;
+}
+#screen {
+    width: 80%;
+    height: 50px;
+    margin-left: 37px;
+    margin-top: 20px;
+    pointer-events: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+.btn{
+    width: 60px;
+    height: 45px;
+    margin-top: 30px;
+    margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+.buttons{
+    padding-top: 30px;
+}
+.main-body{
+    margin: 0;
+    padding-left: 530px;
+    padding-top: 70px;
+}
+.buttonclr {
+    width: 135px;
+    height: 45px;
+    margin-top: 30px;
+    margin-left: 240px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    background: orange;
+    border-radius: 25px;
+}
+body{
+    margin: 0;
+    background-image: url('background.jpg');
+}
